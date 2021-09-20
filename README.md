@@ -22,3 +22,7 @@
 
 ## 終了方法
 ターミナルでCtrl+cを押してサーバーを終了し、exitでDocker環境を終了します。
+
+## 参考情報
+- [リファレンス（英語）](https://p5js.org/reference/)
+- [p5.js ビギナー向けチートシート](https://bmoren.github.io/p5js-cheat-sheet/ja.html)
