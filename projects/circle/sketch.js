@@ -11,7 +11,7 @@ function draw() {
     g = random(255);
     b = random(255);
     fill(r, g, b);
-    r = 10;
+    r = 150;
     ellipse(mouseX, mouseY, r, r);
   } else {
     r = 255;
