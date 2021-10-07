@@ -13,7 +13,6 @@ function draw() {
     fill(r, g, b);
     r = 100;
     ellipse(mouseX, mouseY, r, r);
-  }
   } else {
     r = 255;
     g = 255;
